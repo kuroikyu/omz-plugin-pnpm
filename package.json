@@ -1,0 +1,18 @@
+{
+	"name": "omz-plugin-pnpm",
+	"version": "1.0.0",
+	"description": "Quick aliases for `pnpm`",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kuroikyu/omz-plugin-pnpm"
+	},
+	"keywords": [
+		"oh-my-zsh",
+		"plugin",
+		"pnpm",
+		"alias",
+		"zsh"
+	],
+	"author": "kuroikyu",
+	"license": "MIT"
+}
