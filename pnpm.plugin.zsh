@@ -23,3 +23,8 @@ alias pout="pnpm outdated"
 alias px="pnpm dlx"
 alias pcr="pnpm create"
 alias penv="pnpm env"
+
+alias pipd="pnpm install && pnpm dev"
+alias pbps="pnpm build && pnpm start"
+
+alias pnomo="pnpm -r exec rm -rf node_modules"
