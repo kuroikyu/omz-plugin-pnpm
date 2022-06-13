@@ -42,3 +42,22 @@ plugins=(
 | `px`   | `pnpm dlx`                           |
 | `pcr`  | `pnpm create`                        |
 | `penv` | `pnpm env`                           |
+
+---
+
+## Extra Aliases
+
+3. Add `pnpm-extra` to the array of plugins in your `zshrc` file
+
+```shell
+plugins=(
+    ...
+    pnpm-extra
+)
+```
+
+| Alias   | Command                            |
+| ------- | ---------------------------------- |
+| `pipd`  | `pnpm install && pnpm dev`         |
+| `pbps`  | `pnpm build && pnpm start`         |
+| `pnomo` | `pnpm -r exec rm -rf node_modules` |
