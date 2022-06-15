@@ -21,27 +21,26 @@ plugins=(
 
 ## Aliases
 
-| Alias   | Command                              |
-| ------- | ------------------------------------ |
-| `p`     | `pnpm`                               |
-| `pa`    | `pnpm add`                           |
-| `pad`   | `pnpm add --save-dev`                |
-| `pag`   | `pnpm add --global`                  |
-| `prm`   | `pnpm remove`                        |
-| `pu`    | `pnpm update`                        |
-| `pui`   | `pnpm update --interactive`          |
-| `puil`  | `pnpm update --interactive --latest` |
-| `pi`    | `pnpm install`                       |
-| `pd`    | `pnpm dev`                           |
-| `pb`    | `pnpm build`                         |
-| `ps`    | `pnpm serve`                         |
-| `pst`   | `pnpm start`                         |
-| `pt`    | `pnpm test`                          |
-| `pls`   | `pnpm list`                          |
-| `pout`  | `pnpm outdated`                      |
-| `px`    | `pnpm dlx`                           |
-| `pcr`   | `pnpm create`                        |
-| `penv`  | `pnpm env`                           |
-| `pipd`  | `pnpm install && pnpm dev`           |
-| `pbps`  | `pnpm build && pnpm start`           |
-| `pnomo` | `pnpm -r exec rm -rf node_modules`   |
+| Alias  | Command                              |
+| ------ | ------------------------------------ |
+| `p`    | `pnpm`                               |
+| `pa`   | `pnpm add`                           |
+| `pad`  | `pnpm add --save-dev`                |
+| `pag`  | `pnpm add --global`                  |
+| `prm`  | `pnpm remove`                        |
+| `pu`   | `pnpm update`                        |
+| `pui`  | `pnpm update --interactive`          |
+| `puil` | `pnpm update --interactive --latest` |
+| `pi`   | `pnpm install`                       |
+| `pd`   | `pnpm dev`                           |
+| `pb`   | `pnpm build`                         |
+| `ps`   | `pnpm serve`                         |
+| `pst`  | `pnpm start`                         |
+| `pt`   | `pnpm test`                          |
+| `pls`  | `pnpm list`                          |
+| `pout` | `pnpm outdated`                      |
+| `px`   | `pnpm dlx`                           |
+| `pcr`  | `pnpm create`                        |
+| `penv` | `pnpm env`                           |
+| `pipd` | `pnpm install && pnpm dev`           |
+| `pbps` | `pnpm build && pnpm start`           |
